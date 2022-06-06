@@ -1,4 +1,4 @@
-# [DEMO](https://<your_account>.github.io/<repo_name>/)
+# [DEMO](https://elizachernysh.github.io/stop-watch/)
 
 Used:
 - SCSS,
